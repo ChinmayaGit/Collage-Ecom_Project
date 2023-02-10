@@ -7,9 +7,13 @@ A new Flutter project.
 This project is a starting point for a Flutter application and react Website.
 
 Backend:- node.js
+
 Databse:- Mongo db
+
 Api:- Heroku
+
 Application:- Flutter
+
 Website:- React
 
 thanks to Thapa Technical youtube:
