@@ -4,10 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application and react Website.
 
-node.js part:
-https://github.com/ChinmayaGit/e_com
+Backend:- node.js
+Databse:- Mongo db
+Api:- Heroku
+Application:- Flutter
+Website:- React
 
 thanks to Thapa Technical youtube:
 i learned from this playlist:
